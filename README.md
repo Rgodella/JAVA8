@@ -1,2 +1,2 @@
 # JAVA8
-All the JAVA8 Features includes in this Repo
+All the JAVA8 Features include in this Repository
